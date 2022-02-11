@@ -1,15 +1,15 @@
 {
   "_args": [
     [
-      "formiojs@4.13.2",
+      "reactfbuilder@4.13.2",
       "D:\\git\\lab-react-ui\\frontend"
     ]
   ],
-  "_from": "formiojs@4.13.2",
-  "_id": "formiojs@4.13.2",
+  "_from": "reactfbuilder@4.13.2",
+  "_id": "reactfbuilder@4.13.2",
   "_inBundle": false,
   "_integrity": "sha512-HZeq5h2P2BPwhSDbENHM6TVjJCoHdhz53sGxORIRXkzt2/GTErjrh6CuejrflLYdWuS1YRy0qjYuxIS/2P40+A==",
-  "_location": "/formiojs",
+  "_location": "/reactfbuilder",
   "_phantomChildren": {
     "@babel/runtime": "7.14.0",
     "call-bind": "1.0.2",
@@ -32,9 +32,9 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "formiojs@4.13.2",
-    "name": "formiojs",
-    "escapedName": "formiojs",
+    "raw": "reactfbuilder@4.13.2",
+    "name": "reactfbuilder",
+    "escapedName": "reactfbuilder",
     "rawSpec": "4.13.2",
     "saveSpec": null,
     "fetchSpec": "4.13.2"
@@ -42,19 +42,18 @@
   "_requiredBy": [
     "/react-formio"
   ],
-  "_resolved": "https://registry.npmjs.org/formiojs/-/formiojs-4.13.2.tgz",
   "_spec": "4.13.2",
   "_where": "D:\\git\\lab-react-ui\\frontend",
   "browser": {
     "vm": false
   },
   "bugs": {
-    "url": "https://github.com/formio/formio.js/issues"
+    "url": "https://github.com/fdurna/reactfbuilder/issues"
   },
   "contributors": [
     {
       "name": "Form.io Open Source Community",
-      "url": "https://github.com/formio/formio.js/graphs/contributors"
+      "url": "https://github.com/fdurna/reactfbuilder/graphs/contributors"
     }
   ],
   "dependencies": {
@@ -95,13 +94,13 @@
     "vanilla-picker": "^2.11.2"
   },
   "description": "Common js library for client side interaction with <form.io>",
-  "homepage": "https://github.com/formio/formio.js#readme",
+  "homepage": "https://github.com/fdurna/reactfbuilder#readme",
   "license": "MIT",
   "main": "index.js",
-  "name": "formiojs",
+  "name": "reactfbuilder",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/formio/formio.js.git"
+    "url": "git+https://github.com/fdurna/reactfbuilder.git"
   },
   "types": "index.d.ts",
   "version": "4.13.2"
